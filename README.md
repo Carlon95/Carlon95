@@ -116,7 +116,7 @@ Me chamo Carlos Augusto Pimenta, tenho 29 anos e sou natural de Minas Gerais. So
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 9px;" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=Carlon95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -124,7 +124,7 @@ Me chamo Carlos Augusto Pimenta, tenho 29 anos e sou natural de Minas Gerais. So
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlon95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlon95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
